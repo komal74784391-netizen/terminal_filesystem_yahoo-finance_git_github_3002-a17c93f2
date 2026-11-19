@@ -1,0 +1,45 @@
+{
+  "base_currency": "CHF",
+  "settlement_date": "2026-09-13",
+  "rate_date": "2026-09-11",
+  "rates": {
+    "ZAR": 0.05017799884080887,
+    "MXN": 0.04786200076341629,
+    "CAD": 0.5874000191688538,
+    "DKK": 0.1262969970703125,
+    "EGP": 0.015843564267693313
+  },
+  "participants": [
+    {
+      "participant": "Kalahari Wetland Survey Unit",
+      "currency": "ZAR",
+      "source_total": 1100000,
+      "converted_total": 55195.8
+    },
+    {
+      "participant": "Yucatan Karst Wetlands Group",
+      "currency": "MXN",
+      "source_total": 1301900,
+      "converted_total": 62311.54
+    },
+    {
+      "participant": "Muskoka Shield Lakes Team",
+      "currency": "CAD",
+      "source_total": 202900,
+      "converted_total": 119183.46
+    },
+    {
+      "participant": "Vadehavet Marsh Observatory",
+      "currency": "DKK",
+      "source_total": 892500,
+      "converted_total": 112720.07
+    },
+    {
+      "participant": "Nile Delta Wetland Observatory",
+      "currency": "EGP",
+      "source_total": 7840000,
+      "converted_total": 124213.54
+    }
+  ],
+  "grand_total": 473624.41
+}
